@@ -1,0 +1,6 @@
+# Environments
+venv/
+__pycache__/   # 忽略Python编译缓存
+*.pyc          # 忽略Python编译文件
+*.pyo
+*.pyd
